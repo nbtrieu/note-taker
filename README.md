@@ -1,26 +1,45 @@
-# note-taker
-GIVEN a note-taking application
+# Note Taker
+## Description
 
-WHEN I open the Note Taker
+This application is built for users to write, save and delete notes as needed so that they can organize their thoughts and keep track of tasks to complete.
 
-THEN I am presented with a landing page with a link to a notes page
+## Table of Content
 
-WHEN I click on the link to the notes page
+* [Installation](#installation)
 
-THEN I am presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column
+* [Usage](#usage)
 
-WHEN I enter a new note title and the note’s text
+* [Contributing](#contributing)
 
-THEN a Save icon appears in the navigation at the top of the page
+* [Questions](#questions)   
 
-WHEN I click on the Save icon
 
-THEN the new note I have entered is saved and appears in the left-hand column with the other existing notes
+## Installation
 
-WHEN I click on an existing note in the list in the left-hand column
+To install all necessary dependencies for development purposes, please run the command below:
+``npm i express``
+``npm run start``
 
-THEN that note appears in the right-hand column
 
-WHEN I click on the Write icon in the navigation at the top of the page
+## Usage
 
-THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
+To use this application, open the Note Taker by going to [http://localhost:3001/](http://localhost:3001/). Click on the Get Started button to be taken to the Note Taking page. Then, type in the note title and text describing the task to complete. Once both fields are filled out, a Save icon will appear on the right hand side and can be clicked to save the note. Saved notes will appear on the left-hand column and can be fully viewed again when clicked on. To write more notes, click on the Plus icon at the top right corner. Notes can also be deleted by clicking on the Trash icon for each note.
+ 
+
+![Landing page](./assets/screenshots/landing-page.png)  
+
+![Note taking page](./assets/screenshots/note-taking-page.png)  
+
+
+## Contributing
+
+There are many ways in which you can participate in this project.
+Users can contribute to this repo by submitting bugs and feature requests, reviewing source code changes, and making pull requests for any issues they can find.    
+
+
+## Questions
+
+For any questions or feedback, please feel free to email me at nbtrieu@uci.edu.
+If you would like to check out more of my projects, please visit [nbtrieu](https://github.com/nbtrieu).
+
+
