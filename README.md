@@ -16,8 +16,10 @@ This application is built for users to write, save and delete notes as needed so
 
 ## Installation
 
-To install all necessary dependencies for development purposes, please run the command below:
-``npm i express``
+To install all necessary dependencies for development purposes, please run the command below:  
+
+``npm i express``  
+
 ``npm run start``
 
 
