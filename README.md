@@ -25,7 +25,7 @@ To install all necessary dependencies for development purposes, please run the c
 
 ## Usage
 
-To use this application, open the Note Taker by going to [http://localhost:3001/](http://localhost:3001/). Click on the Get Started button to be taken to the Note Taking page. Then, type in the note title and text describing the task to complete. Once both fields are filled out, a Save icon will appear on the right hand side and can be clicked to save the note. Saved notes will appear on the left-hand column and can be fully viewed again when clicked on. To write more notes, click on the Plus icon at the top right corner. Notes can also be deleted by clicking on the Trash icon for each note.
+To use this application, open the Note Taker by going to [https://nbtrieu-note-taker.herokuapp.com/](https://nbtrieu-note-taker.herokuapp.com//). Click on the Get Started button to be taken to the Note Taking page. Then, type in the note title and text describing the task to complete. Once both fields are filled out, a Save icon will appear on the right hand side and can be clicked to save the note. Saved notes will appear on the left-hand column and can be fully viewed again when clicked on. To write more notes, click on the Plus icon at the top right corner. Notes can also be deleted by clicking on the Trash icon for each note.
  
 
 ![Landing page](./assets/screenshots/landing-page.png)  
